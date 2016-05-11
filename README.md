@@ -1,2 +1,4 @@
-# flatland
-Component-Based Entity-Based 2D Game Engine.
+flatland
+========
+
+Component- and Entity-Based 2D Game Engine.
